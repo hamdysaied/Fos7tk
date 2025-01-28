@@ -23,8 +23,8 @@ Fos7tk was built with a focus on innovation, leveraging technologies like:
    git clone https://github.com/hamdysaied/Fos7tk.git
 2. Navigate to the project directory :
    cd Fos7tk
-3. Install dependencies
+3. Install dependencies :
    npm install
-4. Run the project locally
+4. Run the project locally : 
    npm start
 
